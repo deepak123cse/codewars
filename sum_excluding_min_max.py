@@ -8,3 +8,5 @@ def sum_array(num_list):
     else:
         sum_value = 0
     return sum_value
+
+
